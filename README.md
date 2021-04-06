@@ -1,7 +1,7 @@
 /*
 Copyright: Tommi Kunnari 6.4.2021
   ***************************************
-This is a simple command line interface (CLI, aka shell) program.
+This is my take on a simple shell program.
 It was made as a part of a final project assignment submission for a bachelors'
 course on OS- and systems programming. It contains the following built-in
 shell commands:
